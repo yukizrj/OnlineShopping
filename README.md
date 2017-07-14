@@ -1,4 +1,5 @@
 # OnlineShop
+OnlineShopping website including shop online, shopping cart, admin manage orders, retailer manage products.
 
 ### Used Technologies
 * JSTL
